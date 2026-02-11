@@ -1,2 +1,2 @@
-# Blog-Website
-Experiment 2 of Web Tech SIES clg
+# Cllg-WEBTECH-EXPs
+This repo is for cllg assignments and expermints of the subject WEBTECH 
